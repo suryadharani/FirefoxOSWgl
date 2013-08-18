@@ -1,0 +1,13 @@
+{
+  "name": "Guess My BirthDAY",
+  "description": "This reveasls your birthday :D",
+  "launch_path": "./GuessIt.html",
+  "icons": {
+    "128": "./shield.png"
+  },
+  "developer": {
+    "name": "NithinDharHack",
+    "url": "https://www.facebook.com/groups/logeek/"
+  },
+  "default_locale": "en"
+}
